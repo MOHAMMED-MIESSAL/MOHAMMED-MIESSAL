@@ -31,8 +31,8 @@ You can view or download my CV here: [Download CV](cv/MOHAMMED%20MIESSAL.pdf)
 
 
 ## 🔄 Let’s Connect
-- **🏰 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-mi%C3%AAssal/)
+- **🏰 LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/mohammed-mi%C3%AAssal/)
 - **📧 Email**: mohammedmiessal@gmail.com
-- **🎡 GitHub**: [Your GitHub Profile](https://github.com/MOHAMMED-MIESSAL)
+- **🎡 GitHub**: [My GitHub Profile](https://github.com/MOHAMMED-MIESSAL)
 
 Together, let’s transform ideas into impactful solutions and embark on journeys of innovation. The stars are the limit! 🌠

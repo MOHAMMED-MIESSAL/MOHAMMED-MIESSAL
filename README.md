@@ -25,6 +25,11 @@ Here’s a snapshot of the tools I wield:
 - **Adaptability**: Thriving in dynamic environments and embracing challenges.
 - **Continuous Growth**: Always learning to stay ahead of the curve.
 
+
+## 📄 My CV
+You can view or download my CV here: [Download CV](cv/MOHAMMED%20MIESSAL.pdf)
+
+
 ## 🔄 Let’s Connect
 - **🏰 LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-mi%C3%AAssal/)
 - **📧 Email**: mohammedmiessal@gmail.com

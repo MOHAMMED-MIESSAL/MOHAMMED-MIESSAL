@@ -16,7 +16,7 @@ In my universe, code is more than syntax; it’s art. I focus on building applic
 
 ## 🌐 Tech Stack Visualized
 Here’s a snapshot of the tools I wield:
-**Java**, **Angular**, **HTML5**, **CSS3**, **JavaScript**, **Tailwind CSS**, **Figma**, **Docker**, **GitHub**
+**Java**, **Spring**, **Spring boot**, **JEE**, **Angular**, **HTML5**, **CSS3**, **JavaScript**, **Tailwind CSS**, **Figma**, **Docker**, **GitHub**, 
 
 ![Coding Image](images/LinkedIn%20Banner.png)
 

@@ -18,7 +18,7 @@ In my universe, code is more than syntax; it’s art. I focus on building applic
 Here’s a snapshot of the tools I wield:
 **Java**, **Angular**, **HTML5**, **CSS3**, **JavaScript**, **Tailwind CSS**, **Figma**, **Docker**, **GitHub**
 
-![Coding Image](https://via.placeholder.com/800x400?text=Full+Stack+Developer)
+![Coding Image](images/LinkedIn%20Banner.png)
 
 ## 🌟 Why Collaborate with Me?
 - **Visionary Thinking**: I don’t just solve problems; I envision possibilities.
